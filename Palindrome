@@ -7,4 +7,4 @@ function palindrome(str) {
     return false;
   }
 
-  palindrome("eye");
+  palindrome("eye"); //check that everythingi s working
